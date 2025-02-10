@@ -1,22 +1,18 @@
-Welcome to Lumache's documentation!
+HUBET - LINK ĐĂNG NHẬP MỚI NHẤT | HUBET.FYI TẶNG 88K TRẢI NGHIỆM
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Hubet <https://hubet.fyi/>`_ hiện đang là một trong những sân chơi giải trí trực tuyến nổi bật nhất thời điểm này bởi sở hữu kho game khổng lồ và chế độ đổi thưởng xanh chín. Đơn vị hoạt động dưới sự bảo trợ tuyệt đối của tổ chức cờ bạc uy tín PAGCOR nên sẽ đảm bảo hoàn toàn cho khách hàng về các vấn đề pháp lý.
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Khi tham gia giải trí tại trang chủ nhà cái hubet.fyi, hội viên có thể trải nghiệm những đầu game hết sức ấn tượng như casino live, cá độ thể thao, đặt cược esports, dự đoán xổ số, chơi bắn cá dổi thưởng,... Bên cạnh đó, những đối tác cung cấp trò chơi cho đơn vị đều là những tên tuổi có tầm ảnh hưởng lớn trên thị trường như Sapa sports, AE sexy casino, JILI,... nên hứa hẹn bạn sẽ cảm thấy vô cùng đa dạng và hấp dẫn.
 
-.. note::
+Thông Tin Liên Hệ:
 
-   This project is under active development.
+Website: https://hubet.fyi/
 
-Contents
---------
+Số Điện Thoại: 0354789330
 
-.. toctree::
+Email: hubetfyi@gmail.com
 
-   usage
-   api
+Địa Chỉ: 151b Ng. Quan Thổ 1, Tổ 38, Đống Đa, Hà Nội, Việt Nam
+
+#hubet #hubet_fyi #trangchuhubet
